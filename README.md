@@ -20,24 +20,9 @@
 
 <h2>🖋️ Biography</h2>
 <p>
-  I am a Professor and Bachelor of History, with a Master's degree in Philosophy, Religion, and Contemporary Culture. Born in the province of Córdoba, Argentina, 
-  I hold a diploma in Online Scientific Journal Management from 
-  <strong>Universidad de Ciencias Empresariales y Sociales (UCES)</strong> in Argentina (2022) and am an expert in Research Support Services: 
-  Information, Data, Evaluation, and Scientific Publishing from <strong>Universidad Pablo de Olavide</strong> in Spain (2024).
+ I was trained in the humanities. That marks my vision of the world. Later, I created companies, supported academic publishing houses around the world and I became an expert in free software and metadata for the sector.
 </p>
 
-<h3>📚 My Journey</h3>
-<p>
-  I began my career teaching in Training Institutions and working in archives. In 2015, I founded and directed an academic journal using OJS 2 on the PPCT portal of Caicyt. Over time, I transitioned to supporting academic journals and publishers across Latin America and Spain. My work includes:
-</p>
-<ul>
-  <li>🌐 Implementing <strong>Open Journal Systems (OJS)</strong>.</li>
-  <li>📖 Developing the <strong>LatarXiv</strong> preprint server.</li>
-  <li>🎓 Providing expert guidance in open access strategies.</li>
-</ul>
-<p>
-  Through these projects, I remain dedicated to the dissemination of knowledge and the humanities in the digital era.
-</p>
 
 <h3>🎯 Current Role</h3>
 <p>
