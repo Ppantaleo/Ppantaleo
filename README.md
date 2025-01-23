@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/patricio-pantaleo"><img alt="LinkedIn account of Patricio Pantaleo" src="https://shields.io/badge/LinkedIn-patricio--pantaleo-333?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:patricio@paideiastudio.net"><img alt="Mail account of Patricio Pantaleo" src="https://shields.io/badge/Email-patricio%40paideiastudio.net-333?logo=gmail&logoColor=white" /></a></p><br>
   <p align="center">
-   <a href="https://orcid.org/0000-0002-8104-8975"><img alt="ORCID of Patricio Pantaleo" src="https://shields.io/badge/ORCID-0000--0002--8104--8975-333?logo=orcid&logoColor=white" /></a></p>
+   <a href="https://orcid.org/0000-0002-8104-8975"><img alt="ORCID of Patricio Pantaleo" src="https://shields.io/badge/ORCID-0000--0002--8104--8975-333?logo=orcid&logoColor=white" /></a>
   <a href="https://mastodon.social/@patopantaleo" rel="me"><img alt="Mastodon account of Patricio Pantaleo" src="https://shields.io/badge/Mastodon-patopantaleo%40mastodon.social-333?logo=mastodon&logoColor=white" /></a>
   <a href="https://x.com/PatoPantaleo"><img alt="X account of Patricio Pantaleo" src="https://shields.io/badge/X-PatoPantaleo-333?logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/patricio-pantaleo"><img alt="LinkedIn account of Patricio Pantaleo" src="https://shields.io/badge/LinkedIn-patricio--pantaleo-333?logo=linkedin&logoColor=white" /></a>
