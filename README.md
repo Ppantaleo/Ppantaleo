@@ -23,3 +23,17 @@
   I was trained in the humanities. That marks my vision of the world. Later, I created companies, supported academic publishing houses around the world, and became an expert in free software and metadata for the sector.
 </p>
 
+<h2>🏷️ Interests & Skills</h2>
+<p align="center">
+  <img alt="Open Access" src="https://shields.io/badge/-Open%20Access-333?style=for-the-badge" />
+  <img alt="Open Journal Systems (OJS)" src="https://shields.io/badge/-OJS-333?style=for-the-badge" />
+  <img alt="Digital Humanities" src="https://shields.io/badge/-Digital%20Humanities-333?style=for-the-badge" />
+  <img alt="Academic Publishing" src="https://shields.io/badge/-Academic%20Publishing-333?style=for-the-badge" />
+  <img alt="Metadata Management" src="https://shields.io/badge/-Metadata%20Management-333?style=for-the-badge" />
+  <img alt="Preprints" src="https://shields.io/badge/-Preprints-333?style=for-the-badge" />
+  <img alt="Crossref" src="https://shields.io/badge/-Crossref-333?style=for-the-badge" />
+  <img alt="Quarto" src="https://shields.io/badge/-Quarto-333?style=for-the-badge" />
+  <img alt="RMarkdown" src="https://shields.io/badge/-RMarkdown-333?style=for-the-badge" />
+  <img alt="Linux Server Administration" src="https://shields.io/badge/-Linux%20Server%20Administration-333?style=for-the-badge" />
+</p>
+
