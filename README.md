@@ -1,24 +1,4 @@
-# 👋 Hello, I'm Patricio Pantaleo
-
-## 🖋️ Biography
-I am a Professor and Bachelor of History, with a Master's degree in Philosophy, Religion, and Contemporary Culture. Born in the province of Córdoba, Argentina, I hold a diploma in Online Scientific Journal Management from **Universidad de Ciencias Empresariales y Sociales (UCES)** in Argentina (2022) and am an expert in Research Support Services: Information, Data, Evaluation, and Scientific Publishing from **Universidad Pablo de Olavide** in Spain (2024).
-
-### 📚 My Journey
-I began my career teaching in Training Institutions and working in archives. In 2015, I founded and directed an academic journal using OJS 2 on the PPCT portal of Caicyt. Over time, I transitioned to supporting academic journals and publishers across Latin America and Spain. My work includes:
-
-- 🌐 Implementing **Open Journal Systems (OJS)**.
-- 📖 Developing the **LatarXiv** preprint server.
-- 🎓 Providing expert guidance in open access strategies.
-
-Through these projects, I remain dedicated to the dissemination of knowledge and the humanities in the digital era.
-
-### 🎯 Current Role
-As the **Director of Paideia Studio**, a sponsor of Crossref, I leverage my extensive experience in metadata management and persistent identifiers for academic content. My mission is to bridge the gap between digital technology and the humanities, ensuring that valuable research reaches a global audience.
-
-### 💡 Let's Connect!
-If you're passionate about academic publishing, open access, or digital humanities, feel free to connect with me or explore my projects!
-
----
+<h1 align="center">👋 Hello, I'm Patricio Pantaleo</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patricio-pantaleo" target="_blank">
@@ -38,19 +18,34 @@ If you're passionate about academic publishing, open access, or digital humaniti
   </a>
 </p>
 
+<h2>🖋️ Biography</h2>
+<p>
+  I am a Professor and Bachelor of History, with a Master's degree in Philosophy, Religion, and Contemporary Culture. Born in the province of Córdoba, Argentina, 
+  I hold a diploma in Online Scientific Journal Management from 
+  <strong>Universidad de Ciencias Empresariales y Sociales (UCES)</strong> in Argentina (2022) and am an expert in Research Support Services: 
+  Information, Data, Evaluation, and Scientific Publishing from <strong>Universidad Pablo de Olavide</strong> in Spain (2024).
+</p>
 
+<h3>📚 My Journey</h3>
+<p>
+  I began my career teaching in Training Institutions and working in archives. In 2015, I founded and directed an academic journal using OJS 2 on the PPCT portal of Caicyt. Over time, I transitioned to supporting academic journals and publishers across Latin America and Spain. My work includes:
+</p>
+<ul>
+  <li>🌐 Implementing <strong>Open Journal Systems (OJS)</strong>.</li>
+  <li>📖 Developing the <strong>LatarXiv</strong> preprint server.</li>
+  <li>🎓 Providing expert guidance in open access strategies.</li>
+</ul>
+<p>
+  Through these projects, I remain dedicated to the dissemination of knowledge and the humanities in the digital era.
+</p>
 
-<!--
-**Ppantaleo/Ppantaleo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🎯 Current Role</h3>
+<p>
+  As the <strong>Director of Paideia Studio</strong>, a sponsor of Crossref, I leverage my extensive experience in metadata management and persistent identifiers for academic content. 
+  My mission is to bridge the gap between digital technology and the humanities, ensuring that valuable research reaches a global audience.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>💡 Let's Connect!</h3>
+<p>
+  If you're passionate about academic publishing, open access, or digital humanities, feel free to connect with me or explore my projects!
+</p>
