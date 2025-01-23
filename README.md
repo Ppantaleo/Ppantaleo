@@ -1,6 +1,16 @@
 <h1 align="center">👋 Hello, I'm Patricio Pantaleo</h1>
 
 <p align="center">
+  <a href="https://mickael.canouil.fr/"><img alt="Personal Website of Mickaël Canouil" src="https://shields.io/badge/Personal-Website-333" /></a>
+  <a href="https://github.com/sponsors/mcanouil"><img alt="GitHub Sponsor profile of Mickaël Canouil" src="https://shields.io/badge/GitHub-Sponsor-333?logo=githubsponsors&logoColor=white" /></a>
+  </br>
+  <a href="https://fosstodon.org/@MickaelCanouil" rel="me"><img alt="Mastodon account of Mickaël Canouil" src="https://shields.io/badge/Mastodon-MickaelCanouil-333?logo=mastodon&logoColor=white" /></a>
+  <a href="https://x.com/MickaelCanouil"><img alt="X account of Mickaël Canouil" src="https://shields.io/badge/X-MickaelCanouil-333?logo=x&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/mickael.canouil.fr"><img alt="X account of Mickaël Canouil" src="https://shields.io/badge/BlueSky-mickael.canouil.fr-333?logo=bluesky&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mickaelcanouil"><img alt="LinkedIn account of Mickaël Canouil" src="https://shields.io/badge/LinkedIn-mickaelcanouil-333?logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/patricio-pantaleo" target="_blank">
     <img alt="LinkedIn of Patricio Pantaleo" src="https://shields.io/badge/LinkedIn-patricio--pantaleo-333?logo=linkedin&logoColor=white" />
   </a>
