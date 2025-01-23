@@ -27,5 +27,10 @@
   <img alt="Quarto" src="https://shields.io/badge/-Quarto-333?style=for-the-badge" />
   <img alt="RMarkdown" src="https://shields.io/badge/-RMarkdown-333?style=for-the-badge" />
   <img alt="Linux Server Administration" src="https://shields.io/badge/-Linux%20Server%20Administration-333?style=for-the-badge" />
+  <img alt="XML-JATS" src="https://shields.io/badge/-XML%20JATS-333?style=for-the-badge" />
+  <img alt="CSS" src="https://shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="HTML" src="https://shields.io/badge/-HTML-333?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="AWS" src="https://shields.io/badge/-AWS-333?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Pandoc" src="https://shields.io/badge/-Pandoc-333?style=for-the-badge&logo=pandoc&logoColor=white" />
 </p>
 
