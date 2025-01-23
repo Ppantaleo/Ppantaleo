@@ -19,7 +19,6 @@ As the **Director of Paideia Studio**, a sponsor of Crossref, I leverage my exte
 If you're passionate about academic publishing, open access, or digital humanities, feel free to connect with me or explore my projects!
 
 ---
-🌐 [Paideia Studio](https://paideiastudio.net) | 📧 patricio@paideiastudio.net | 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/patricio-pantaleo" target="_blank">
@@ -33,6 +32,9 @@ If you're passionate about academic publishing, open access, or digital humaniti
   </a>
   <a href="https://orcid.org/0000-0002-8104-8975" target="_blank">
     <img alt="ORCID profile of Patricio Pantaleo" src="https://shields.io/badge/ORCID-0000--0002--8104--8975-333?logo=orcid&logoColor=white" />
+  </a>
+  <a href="mailto:patricio@paideiastudio.net">
+    <img alt="Email Patricio Pantaleo" src="https://shields.io/badge/Email-patricio%40paideiastudio.net-333?logo=gmail&logoColor=white" />
   </a>
 </p>
 
